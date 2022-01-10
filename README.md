@@ -6,8 +6,8 @@
   
   
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dev-bastienpruvost&label=Profile%20views&color=0e75b6&style=flat" alt="dev-bastienpruvost" /> </p>
-<h2>👋 Hi , I'm Bastien  </br>  
-A passionate developer from Toulouse, France</h2>
+<h2>Hello , I'm Bastien 👋 </br>  
+A passionate Web Developer from Toulouse, France</h2>
   
   
 <h4>About me :</h4>
@@ -19,7 +19,7 @@ A passionate developer from Toulouse, France</h2>
 
 <!-- - 🤝 I’m looking for help with [Project Name](Project Link) -->
 
-- 👨‍💻 All of my projects are available at [http://www.portfolio.pruvostbastien.fr/]( http://www.portfolio.pruvostbastien.fr/) (SOON)
+<!-- - 👨‍💻 All of my projects are available at [http://www.portfolio.pruvostbastien.fr/]( http://www.portfolio.pruvostbastien.fr/) (SOON) -->
 
 <!-- - 📝 I regularly write articles on [Blog Link](Blog Link) -->
 
@@ -28,10 +28,10 @@ A passionate developer from Toulouse, France</h2>
 - 📫 You can contact me at **bastien.mory@gmail.com**
 
 
-<h4 align="left">Connect with me:</h4>
+<!-- <h4 align="left">Connect with me:</h4>
 <p align="left">
 LinkedIn : <a href="https://linkedin.com/in/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soon" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h4 align="left">Technologies, languages and tools that I master :</h4>
 

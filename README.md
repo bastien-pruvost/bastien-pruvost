@@ -11,21 +11,24 @@ A passionate Web Developer from Toulouse, France</h2>
   
   
 <h4>About me :</h4>
+
+- 🌱 I'm a **Junior Web Developer**.
+
 <!-- - 🔭 I’m currently working on [Project Name](Project Link) -->
 
-- 🌱 I’m currently learning **JavaScript**
+- 👨‍🎓 I’m currently learning **JavaScript**
 
 <!-- - 👯 I’m looking to collaborate on [Project Name](Project Link) -->
 
-<!-- - 🤝 I’m looking for help with [Project Name](Project Link) -->
+- 🤝 I am open to **feedback and advice** on all my projects, feel free to contact me.
 
 <!-- - 👨‍💻 All of my projects are available at [http://www.portfolio.pruvostbastien.fr/]( http://www.portfolio.pruvostbastien.fr/) (SOON) -->
 
 <!-- - 📝 I regularly write articles on [Blog Link](Blog Link) -->
 
-- 💬 Ask me about **HTML, CSS and Sass** 😅 (There will be more soon 😇)
+<!-- - 💬 Ask me about **HTML, CSS and Sass** 😅 (There will be more soon 😇) -->
 
-- 📫 You can contact me at **bastien.mory@gmail.com**
+- 📫 You can contact me at **contact@pruvostbastien.fr**
 
 
 <!-- <h4 align="left">Connect with me:</h4>
@@ -33,12 +36,13 @@ A passionate Web Developer from Toulouse, France</h2>
 LinkedIn : <a href="https://linkedin.com/in/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soon" height="30" width="40" /></a>
 </p> -->
 
-<h4 align="left">Technologies, languages and tools that I use :</h4>
+<h4 align="left">Technologies, languages and tools that I use 💻</h4>
 
 <p align="left">
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/></a>
@@ -46,11 +50,10 @@ LinkedIn : <a href="https://linkedin.com/in/soon" target="blank"><img align="cen
 </p>
 
 
-<h4 align="left">Technologies, languages and tools that interest me for later :</h4>
+<h4 align="left">Technologies, languages and tools that interest me for later 🧐</h4>
     
 <p align="left">
     
-<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/></a>

@@ -5,7 +5,7 @@
   
   
   
-<p align="center"> <a href="https://twitter.com/Dev_Bastien" style="border-radius: 10px"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Dev_Bastien" /></a> <a href="https://www.linkedin.com/in/bastien-pruvost-dev/" style="border-radius: 10px"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bastien-pruvost-dev" /></a> </p>  
+<p align="center"> <a href="https://twitter.com/Dev_Bastien" style="border-radius:10%"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Dev_Bastien" /></a> <a href="https://www.linkedin.com/in/bastien-pruvost-dev/" style="border-radius:10%"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bastien-pruvost-dev" /></a> </p>  
 <h2>Hello , I'm Bastien 👋 </br>  
 A passionate Web Developer from Toulouse, France</h2>
   

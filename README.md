@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:324050,50:202D3C,100:324050&height=220&section=header&text=Bastien%20Pruvost&fontSize=35&fontAlignY=25&desc=Web%20Developer&descSize=20&descAlign=50&descAlignY=45&animation=scaleIn&fontColor=FFFFFF)
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-bastienpruvost&show_icons=true&locale=fr&layout=compact" height="160"><img src="https://github-readme-stats.vercel.app/api?username=dev-bastienpruvost&show_icons=true&locale=en" height="160">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-bastienpruvost&show_icons=true&locale=en&layout=compact&title_color=fff&text_color=fff&icon_color=fff&hide_border&bg_color=90,324050,202D3C" height="160"><img src="https://github-readme-stats.vercel.app/api?username=dev-bastienpruvost&show_icons=true&locale=en" height="160">
 </p>  
   
   

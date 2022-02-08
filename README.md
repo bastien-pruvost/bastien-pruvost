@@ -12,23 +12,23 @@ A passionate Web Developer from Toulouse, France</h2>
   
 <h4>About me :</h4>
 
-- 🌱 I'm a **Junior Web Developer**.
+🌱 I'm a **Junior Web Developer**.
 
-<!-- - 🔭 I’m currently working on [Project Name](Project Link) -->
+<!-- 🔭 I’m currently working on [Project Name](Project Link) -->
 
-- 👨‍🎓 I’m currently learning **JavaScript**
+👨‍🎓 I’m currently learning **JavaScript**
 
-<!-- - 👯 I’m looking to collaborate on [Project Name](Project Link) -->
+<!-- 👯 I’m looking to collaborate on [Project Name](Project Link) -->
 
-- 🤝 I am open to **feedback and advice** on all my projects, feel free to contact me.
+🤝 I am open to **feedback and advice** on all my projects, feel free to contact me.
 
-<!-- - 👨‍💻 All of my projects are available at [http://www.portfolio.pruvostbastien.fr/]( http://www.portfolio.pruvostbastien.fr/) (SOON) -->
+<!-- 👨‍💻 All of my projects are available at [http://www.portfolio.pruvostbastien.fr/]( http://www.portfolio.pruvostbastien.fr/) (SOON) -->
 
-<!-- - 📝 I regularly write articles on [Blog Link](Blog Link) -->
+<!-- 📝 I regularly write articles on [Blog Link](Blog Link) -->
 
-<!-- - 💬 Ask me about **HTML, CSS and Sass** 😅 (There will be more soon 😇) -->
+<!-- 💬 Ask me about **HTML, CSS and Sass** 😅 (There will be more soon 😇) -->
 
-- 📫 You can contact me at **contact@pruvostbastien.fr**
+📫 You can contact me at **contact@pruvostbastien.fr**
 
 
 

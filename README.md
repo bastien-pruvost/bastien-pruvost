@@ -7,7 +7,7 @@
   
 <p align="center"> <a href="https://twitter.com/Dev_Bastien"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Dev_Bastien" /></a> <a href="https://www.linkedin.com/in/bastien-pruvost-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bastien-pruvost-dev" /></a> </p>  
 <h2>Hello , I'm Bastien 👋 </br>  
-A passionate Web Developer from Toulouse, France</h2>
+A passionate Web Developer from South of France</h2>
   
   
 <h4>About me :</h4>

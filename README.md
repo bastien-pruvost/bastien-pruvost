@@ -27,7 +27,7 @@ I am open to **feedback and advice** on all my projects, feel free to contact me
 
 <!-- 📫 You can contact me at **contact@pruvostbastien.fr** -->
 
-
+<!-- 
 
 <h4 align="left">Technologies, languages and tools that I use 💻</h4>
 
@@ -58,3 +58,4 @@ I am open to **feedback and advice** on all my projects, feel free to contact me
 <a href="#" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a>
 </p>
+ -->

@@ -6,21 +6,18 @@
   
   
 <p align="center"> <a href="https://twitter.com/Dev_Bastien"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Dev_Bastien" /></a> <a href="https://www.linkedin.com/in/bastien-pruvost-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bastien-pruvost-dev" /></a> </p>  
-<h2>Hello , I'm Bastien 👋 </br>  
+<h2>Hello , I'm Bastien </br>  
 A passionate Web Developer from South of France</h2>
   
-  
-<h4>About me :</h4>
-
-🌱 I'm a **Junior Web Developer**.
+I'm a **Junior Web Developer**.
 
 <!-- 🔭 I’m currently working on [Project Name](Project Link) -->
 
-👨‍🎓 I’m currently learning **JavaScript**
+I’m currently learning **JavaScript**
 
 <!-- 👯 I’m looking to collaborate on [Project Name](Project Link) -->
 
-🤝 I am open to **feedback and advice** on all my projects, feel free to contact me.
+I am open to **feedback and advice** on all my projects, feel free to contact me.
 
 <!-- 👨‍💻 All of my projects are available at [http://www.portfolio.pruvostbastien.fr/]( http://www.portfolio.pruvostbastien.fr/) (SOON) -->
 
@@ -28,7 +25,7 @@ A passionate Web Developer from South of France</h2>
 
 <!-- 💬 Ask me about **HTML, CSS and Sass** 😅 (There will be more soon 😇) -->
 
-📫 You can contact me at **contact@pruvostbastien.fr**
+<!-- 📫 You can contact me at **contact@pruvostbastien.fr** -->
 
 
 

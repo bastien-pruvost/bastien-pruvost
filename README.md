@@ -13,7 +13,7 @@ I'm a **Junior Web Developer**.
 
 <!-- 🔭 I’m currently working on [Project Name](Project Link) -->
 
-I’m currently learning **JavaScript**
+I’m currently learning **Node.js/Express/MongoDB**
 
 <!-- 👯 I’m looking to collaborate on [Project Name](Project Link) -->
 

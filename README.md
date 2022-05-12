@@ -31,6 +31,8 @@ I'm open to **feedbacks and contributions** on all my projects, feel free to con
 
 <!-- <h4 align="center">Technologies, languages and tools that I use 💻</h4> -->
 
+---
+
 <p align="center">
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>

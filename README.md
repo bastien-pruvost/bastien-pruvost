@@ -25,7 +25,7 @@ I'm open to **feedbacks and contributions** on all my projects, feel free to con
 
 <!-- 💬 Ask me about **HTML, CSS and Sass** 😅 (There will be more soon 😇) -->
 
-<!-- 📫 You can contact me at **contact@pruvostbastien.fr** -->
+📫 You can contact me at **contact@pruvostbastien.fr**
 
 
 

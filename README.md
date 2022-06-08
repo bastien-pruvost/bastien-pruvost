@@ -1,10 +1,19 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:324050,50:202D3C,100:324050&height=220&section=header&text=Bastien%20Pruvost&fontSize=35&fontAlignY=25&desc=Web%20Developer&descSize=20&descAlign=50&descAlignY=45&animation=scaleIn&fontColor=FFFFFF) -->
   
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-BastienPruvost&show_icons=true&locale=en&layout=compact&title_color=fff&text_color=fff&icon_color=fff&bg_color=2C333B&hide_border=true&langs_count=6&card_width=362" height="155"><img src="https://github-readme-stats.vercel.app/api?username=Dev-Bastienpruvost&show_icons=true&locale=en&title_color=fff&text_color=fff&icon_color=fff&bg_color=2C333B&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub+Stats" height="155">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-BastienPruvost&show_icons=true&locale=en&layout=compact&title_color=fff&text_color=fff&icon_color=fff&bg_color=2C333B&hide_border=true&langs_count=6&card_width=362" height="155">
+<img src="https://github-readme-stats.vercel.app/api?username=Dev-Bastienpruvost&show_icons=true&locale=en&title_color=fff&text_color=fff&icon_color=fff&bg_color=2C333B&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub+Stats" height="155">
 </p>  
   
-<p align="center"> <a href="https://twitter.com/DevBastien"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Dev_Bastien" /></a> <a href="https://www.linkedin.com/in/bastien-pruvost-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bastien-pruvost-dev" /></a> </p>  
+<p align="center">
+<a href="https://twitter.com/DevBastien">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Dev_Bastien" />
+</a>
+<a href="https://www.linkedin.com/in/bastien-pruvost-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bastien-pruvost-dev" />
+</a>
+</p>  
+
 <h2>Hello, I'm Bastien </br>  
 A passionate Web Developer from South of France</h2>
   
@@ -12,7 +21,7 @@ I'm a **Junior Web Developer**.
 
 <!-- 🔭 I’m currently working on [Project Name](Project Link) -->
 
-I’m currently learning **Node.js / Express / MongoDB**
+I’m currently learning **React.js**
 
 <!-- 👯 I’m looking to collaborate on [Project Name](Project Link) -->
 
@@ -22,7 +31,7 @@ I'm open to **feedbacks and contributions** on all my projects, feel free to con
 
 <!-- 📝 I regularly write articles on [Blog Link](Blog Link) -->
 
-<!-- 💬 Ask me about **HTML, CSS and Sass** 😅 (There will be more soon 😇) -->
+<!-- 💬 Ask me about **Javascript** -->
 
 You can contact me at **contact@pruvostbastien.fr**
 
@@ -33,6 +42,19 @@ You can contact me at **contact@pruvostbastien.fr**
 ---
 
 <p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="40" height="40" />
+</p>
+
+
+<!-- <p align="center">
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
@@ -41,7 +63,7 @@ You can contact me at **contact@pruvostbastien.fr**
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
-</p>
+</p> -->
 
 <!-- 
 <h4 align="left">Technologies, languages and tools that interest me for later 🧐</h4>

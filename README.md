@@ -13,8 +13,7 @@
 </p>
 
 <h2>
-  Hello, I'm Bastien </br>  
-  A passionate Web Developer from South of France
+  Passionate Web Developer from the South of France
 </h2>
   
 I'm a **Junior Web Developer**.
@@ -37,7 +36,7 @@ You can contact me at **contact@pruvostbastien.fr**
 
 <!-- <h4 align="center">Technologies, languages and tools that I use 💻</h4> -->
 
----
+<h2> </h2>
 
 <p align="center" >
   <img src="./assets/icons/html5.svg" width="50" height="50"/> &ensp;

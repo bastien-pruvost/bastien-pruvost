@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/bastien-pruvost-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bastien-pruvost-dev" />
   </a>
-</p>  
+</p>
 
 <h2>
   Hello, I'm Bastien </br>  
@@ -35,14 +35,13 @@ I'm open to **feedbacks and contributions** on all my projects, feel free to con
 
 You can contact me at **contact@pruvostbastien.fr**
 
-
-
 <!-- <h4 align="center">Technologies, languages and tools that I use 💻</h4> -->
 
 ---
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50" />
+  <img src="./assets/icons/html5.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50" />
@@ -54,4 +53,3 @@ You can contact me at **contact@pruvostbastien.fr**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" />
 </p>
-

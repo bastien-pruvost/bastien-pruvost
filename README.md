@@ -21,11 +21,11 @@ I'm a **Junior Web Developer**.
 
 <!-- 🔭 I’m currently working on [Project Name](Project Link) -->
 
-I’m currently learning **React.js**
+I’m currently learning **SQL**
 
 <!-- 👯 I’m looking to collaborate on [Project Name](Project Link) -->
 
-I'm open to **feedbacks and contributions** on all my projects, feel free to contact me.
+I'm open to **feedbacks and contributions** on all my projects.
 
 <!-- 👨‍💻 All of my projects are available at [http://www.portfolio.pruvostbastien.fr/]( http://www.portfolio.pruvostbastien.fr/) (SOON) -->
 
@@ -39,17 +39,16 @@ You can contact me at **contact@pruvostbastien.fr**
 
 ---
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50" />
-  <img src="./assets/icons/html5.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" />
+<p align="center" >
+  <img src="./assets/icons/html5.svg" width="50" height="50" /> 
+  <img src="./assets/icons/css3.svg" width="50" height="50" /> 
+  <img src="./assets/icons/sass.svg" width="50" height="50" /> 
+  <img src="./assets/icons/javascript.svg" width="50" height="50" /> 
+  <img src="./assets/icons/react.svg" width="50" height="50" /> 
+  <img src="./assets/icons/nodejs.svg" width="50" height="50" /> 
+  <img src="./assets/icons/express.svg" width="50" height="50" /> 
+  <img src="./assets/icons/mongodb.svg" width="50" height="50" /> 
+  <img src="./assets/icons/git.svg" width="50" height="50" /> 
+  <img src="./assets/icons/adobexd.svg" width="50" height="50" /> 
+  <img src="./assets/icons/figma.svg" width="50" height="50" /> 
 </p>

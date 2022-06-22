@@ -40,15 +40,15 @@ You can contact me at **contact@pruvostbastien.fr**
 ---
 
 <p align="center" >
-  <img src="./assets/icons/html5.svg" width="50" height="50" /> 
-  <img src="./assets/icons/css3.svg" width="50" height="50" /> 
-  <img src="./assets/icons/sass.svg" width="50" height="50" /> 
-  <img src="./assets/icons/javascript.svg" width="50" height="50" /> 
-  <img src="./assets/icons/react.svg" width="50" height="50" /> 
-  <img src="./assets/icons/nodejs.svg" width="50" height="50" /> 
-  <img src="./assets/icons/express.svg" width="50" height="50" /> 
-  <img src="./assets/icons/mongodb.svg" width="50" height="50" /> 
-  <img src="./assets/icons/git.svg" width="50" height="50" /> 
-  <img src="./assets/icons/adobexd.svg" width="50" height="50" /> 
-  <img src="./assets/icons/figma.svg" width="50" height="50" /> 
+  <img src="./assets/icons/html5.svg" width="50" height="50"/> &ensp;
+  <img src="./assets/icons/css3.svg" width="50" height="50" /> &ensp;
+  <img src="./assets/icons/sass.svg" width="50" height="50"/> &ensp;
+  <img src="./assets/icons/javascript.svg" width="50" height="50" /> &ensp;
+  <img src="./assets/icons/react.svg" width="50" height="50" /> &ensp;
+  <img src="./assets/icons/nodejs.svg" width="50" height="50" /> &ensp;
+  <img src="./assets/icons/express.svg" width="50" height="50" />
+  <img src="./assets/icons/mongodb.svg" width="50" height="50" />
+  <img src="./assets/icons/git.svg" width="50" height="50" /> &ensp;
+  <img src="./assets/icons/adobexd.svg" width="50" height="50" /> &ensp;
+  <img src="./assets/icons/figma.svg" width="50" height="50" /> &ensp;
 </p>

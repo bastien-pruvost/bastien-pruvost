@@ -13,12 +13,6 @@
   </a>
 </p>
 
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-BastienPruvost&hide_border=true&theme=react)
-  ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Dev-BastienPruvost&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=6&theme=react)
-
-
-
-
 <h2>
   Passionate Web Developer from the South of France
 </h2>
@@ -45,7 +39,7 @@ You can contact me at **contact@pruvostbastien.fr**
 
 <h2> </h2>
 
-<p align="center" >
+<p align="center">
   <img src="./assets/icons/html5.svg" width="50" height="50"/> &ensp;
   <img src="./assets/icons/css3.svg" width="50" height="50" /> &ensp;
   <img src="./assets/icons/sass.svg" width="50" height="50"/> &ensp;

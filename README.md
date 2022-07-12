@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-BastienPruvost&show_icons=true&locale=en&layout=compact&title_color=fff&text_color=fff&icon_color=fff&bg_color=2C333B&hide_border=true&langs_count=6&card_width=362" height="155">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Bastienpruvost&show_icons=true&locale=en&title_color=fff&text_color=fff&icon_color=fff&bg_color=2C333B&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub+Stats" height="155">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-BastienPruvost&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=6&card_width=362&theme=react" height="155">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Bastienpruvost&show_icons=true&locale=en&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub+Stats&theme=react" height="155">
   <br/>
 </p>
 
@@ -13,9 +13,10 @@
   </a>
 </p>
 
-![Stat's](https://github-readme-stats.vercel.app/api?username=Dev-BastienPruvost&show_icons=true&theme=react) 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-BastienPruvost&theme=react)
-![Languages](https://github-readme-streak-stats.herokuapp.com/?user=Dev-BastienPruvost&theme=react)
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-BastienPruvost&hide_border=true&theme=react)
+  ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Dev-BastienPruvost&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=6&theme=react)
+
+
 
 
 <h2>

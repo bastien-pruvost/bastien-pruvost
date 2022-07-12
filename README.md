@@ -13,6 +13,11 @@
   </a>
 </p>
 
+![Stat's](https://github-readme-stats.vercel.app/api?username=Dev-BastienPruvost&show_icons=true&theme=react) 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-BastienPruvost&theme=react)
+![Languages](https://github-readme-streak-stats.herokuapp.com/?user=Dev-BastienPruvost&theme=react)
+
+
 <h2>
   Passionate Web Developer from the South of France
 </h2>

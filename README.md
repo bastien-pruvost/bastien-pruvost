@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-BastienPruvost&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=6&card_width=362&theme=swift" height="155">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Bastienpruvost&show_icons=true&locale=en&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub+Stats&theme=swift" height="155">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-BastienPruvost&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=6&card_width=362&theme=discord_old_blurple" height="155">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Bastienpruvost&show_icons=true&locale=en&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub+Stats&theme=discord_old_blurple" height="155">
   <br/>
 </p>
 

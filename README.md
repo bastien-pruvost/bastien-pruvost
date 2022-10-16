@@ -21,7 +21,7 @@ I'm a **Junior Web Developer**.
 
 <!-- 🔭 I’m currently working on [Project Name](Project Link) -->
 
-I’m currently learning **SQL**
+I’m currently learning **Next.js**
 
 <!-- 👯 I’m looking to collaborate on [Project Name](Project Link) -->
 

@@ -51,5 +51,5 @@ You can contact me at **contact@pruvostbastien.fr**
   <img src="./assets/icons/css3.svg" width="42" height="42" /> &ensp;
   <img src="./assets/icons/sass.svg" width="42" height="42"/> &ensp;
   <img src="./assets/icons/figma.svg" width="42" height="42" /> &ensp;
-  <img src="./assets/icons/git.svg" width="42" height="42" alt="Git"/> &ensp;
+  <img src="./assets/icons/git.svg" width="42" height="42" title="Git"/> &ensp;
 </p>

@@ -23,7 +23,7 @@ I’m currently working on **Openshare.dev** (Soon in public)
 
 <!-- I’m currently working on [Openshare.dev](Project Link) -->
 
-I’m currently learning **Fully Typed Web App**
+I’m currently learning **Type Safety in Web Applications**
 
 <!-- 👯 I’m looking to collaborate on [Project Name](Project Link) -->
 

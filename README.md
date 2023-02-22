@@ -19,7 +19,7 @@
 
 I am a **Javascript Web Developer**.
 
-I’m currently working on **Openshare.dev** (Soon in public)
+I’m currently working on **My Portfolio** & **Openshare.dev** (Soon in public)
 
 <!-- I’m currently working on [Openshare.dev](Project Link) -->
 

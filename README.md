@@ -4,42 +4,44 @@
   <br/>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/DevBastien">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Dev_Bastien" height="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/bastien-pruvost-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bastien-pruvost-dev" height="30" />
-  </a>
-</p>
-
 <h2>
   Passionate Web Developer from South of France
 </h2>
 
-I am a **Javascript Web Developer**.
+I am a **Front-End Web Developer**.
 
-I’m currently working on **My Portfolio** & **Openshare.dev** (Soon in public)
+I’m currently working on **Openshare.dev** (Soon in public)
 
 <!-- I’m currently working on [Openshare.dev](Project Link) -->
 
-I’m currently learning **Full type-safe applications**
+I’m currently learning **Automated tests**
 
-<!-- 👯 I’m looking to collaborate on [Project Name](Project Link) -->
+<!-- I’m looking to collaborate on [Project Name](Project Link) -->
 
 I'm open to **feedbacks and contributions** on all my projects.
 
-<!-- 👨‍💻 All of my projects are available at [http://www.portfolio.pruvostbastien.fr/]( http://www.portfolio.pruvostbastien.fr/) (SOON) -->
+All of my projects are available at **[pruvostbastien.fr](https://www.portfolio.pruvostbastien.fr/)**
 
-<!-- 📝 I regularly write articles on [Blog Link](Blog Link) -->
+<!-- I regularly write articles on [Blog Link](Blog Link) -->
 
-<!-- 💬 Ask me about **Javascript** -->
+<!-- Ask me about **Javascript** -->
 
 You can contact me at **contact@pruvostbastien.fr**
 
+<h2> </h2>
+
+<p align="center">
+  <a href="https://twitter.com/BastienDev_/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="My Twitter" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/pruvost-bastien/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Linkedin" height="30" />
+  </a>
+</p>
+
 <!-- <h4 align="center">Technologies, languages and tools that I use 💻</h4> -->
 
-<h2> </h2>
+<!-- <h2> </h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-javascript-374151?logo=javascript&logoColor=F7DF1E&style=for-the-badge" alt="JavaScript" height="30">
 <img src="https://img.shields.io/badge/-typescript-374151?logo=typescript&logoColor=3178C6&style=for-the-badge" alt="TypeScript" height="30">
@@ -65,4 +67,4 @@ You can contact me at **contact@pruvostbastien.fr**
 <img src="https://img.shields.io/badge/-sequelize-374151?logo=sequelize&logoColor=52B0E7&style=for-the-badge" alt="Sequelize ORM" height="30">
 <img src="https://img.shields.io/badge/-figma-374151?logo=figma&logoColor=AD54F2&style=for-the-badge" alt="Figma" height="30">
 <img src="https://img.shields.io/badge/-git-374151?logo=git&logoColor=F05032&style=for-the-badge" alt="Git" height="30">
-</p>
+</p> -->

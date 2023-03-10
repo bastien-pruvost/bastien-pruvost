@@ -10,7 +10,7 @@
 
 I am a **Front-End Web Developer**.
 
-I’m currently working on **Openshare.dev** (Soon in public)
+I’m currently working on **Openshare.dev**
 
 <!-- I’m currently working on [Openshare.dev](Project Link) -->
 

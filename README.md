@@ -8,23 +8,23 @@
   Passionate Web Developer from South of France
 </h2>
 
-I am a **Front-End Web Developer**.
+I am a **Web Developer**.
 
 I’m currently working on **Openshare.dev**
 
 <!-- I’m currently working on [Openshare.dev](Project Link) -->
 
-I’m currently learning **Automated tests**
+I’m currently learning **Automated Tests (Unit, Integration, E2E)**
 
 <!-- I’m looking to collaborate on [Project Name](Project Link) -->
 
 I'm open to **feedbacks and contributions** on all my projects.
 
-All of my projects are available at **[pruvostbastien.fr](https://www.portfolio.pruvostbastien.fr/)**
+All my projects are available at **[www.pruvostbastien.fr](https://www.portfolio.pruvostbastien.fr/)**
 
 <!-- I regularly write articles on [Blog Link](Blog Link) -->
 
-<!-- Ask me about **Javascript** -->
+<!-- Ask me about **React** -->
 
 You can contact me at **contact@pruvostbastien.fr**
 

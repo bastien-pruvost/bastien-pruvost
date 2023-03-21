@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bastien-Pruvost&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=5&card_width=362&theme=nord&title_color=d2d9e4&bg_color=374151" height="150">
   <img src="https://github-readme-stats.vercel.app/api?username=Bastien-Pruvost&show_icons=true&locale=en&hide_border=true&include_all_commits=false&count_private=true&custom_title=GitHub+Stats&theme=nord&title_color=d2d9e4&bg_color=374151" height="150">
   <br/>
-</p>
+</p> -->
 
 <h2>
   Passionate Web Developer from South of France
@@ -30,7 +30,7 @@ You can contact me at **contact@pruvostbastien.fr**
 
 <h2> </h2>
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/BastienDev_/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="My Twitter" height="30" />
   </a>

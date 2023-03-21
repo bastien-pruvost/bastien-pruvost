@@ -4,6 +4,8 @@
   <br/>
 </p> -->
 
+<br/>
+
 <h2>
   Passionate Web Developer from South of France
 </h2>

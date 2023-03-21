@@ -26,7 +26,7 @@ I'm open to **feedbacks and contributions** on all my projects.
 
 You can contact me at **contact@pruvostbastien.fr**
 
-<!-- <h2> </h2> -->
+<br/>
 
 <p align="left">
   <a href="https://twitter.com/BastienDev_/">

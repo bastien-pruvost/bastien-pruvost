@@ -14,21 +14,19 @@ I’m currently working on **Openshare.dev**
 
 <!-- I’m currently working on [Openshare.dev](Project Link) -->
 
+You can find my portfolio at **[www.pruvostbastien.fr](https://www.pruvostbastien.fr/)**
+
 I’m currently learning **Automated Tests (Unit, Integration, E2E)**
 
 <!-- I’m looking to collaborate on [Project Name](Project Link) -->
 
 I'm open to **feedbacks and contributions** on all my projects.
 
-All my projects are available at **[www.pruvostbastien.fr](https://www.portfolio.pruvostbastien.fr/)**
-
-<!-- I regularly write articles on [Blog Link](Blog Link) -->
-
-<!-- Ask me about **React** -->
+<!-- I regularly write articles on [Blog](Blog Link) -->
 
 You can contact me at **contact@pruvostbastien.fr**
 
-<h2> </h2>
+<!-- <h2> </h2> -->
 
 <p align="left">
   <a href="https://twitter.com/BastienDev_/">

@@ -5,18 +5,16 @@
 </p> -->
 
 <h2>
-  Passionate Web Developer from South of France
+  Web Developer from South of France
 </h2>
 
-I am a **Web Developer**.
-
-I’m currently working on **Openshare.dev**
+I currently work at **Openstudio**
 
 <!-- I’m currently working on [Openshare.dev](Project Link) -->
 
-You can find my portfolio at **[www.pruvostbastien.fr](https://www.pruvostbastien.fr/)**
+You can see my portfolio at **[www.pruvostbastien.fr](https://www.pruvostbastien.fr/)**
 
-I’m currently learning **Automated Tests (Unit, Integration, E2E)**
+<!-- I’m currently learning **Automated Tests (Unit, Integration, E2E)** -->
 
 <!-- I’m looking to collaborate on [Project Name](Project Link) -->
 

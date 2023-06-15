@@ -8,7 +8,7 @@
   Web Developer from South of France
 </h2>
 
-I currently work at **Openstudio**
+I work at **Openstudio** (Toulouse - France)
 
 <!-- I’m currently working on [Openshare.dev](Project Link) -->
 

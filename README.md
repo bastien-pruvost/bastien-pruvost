@@ -8,9 +8,9 @@
   Web Developer from South of France
 </h2>
 
-I work at **Openstudio** (Toulouse - France)
+I work as front-end developer at **Openstudio** (Toulouse - France)
 
-<!-- I’m currently working on [Openshare.dev](Project Link) -->
+I’m currently working on Impartial UI a React component library
 
 You can see my portfolio at **[www.pruvostbastien.fr](https://www.pruvostbastien.fr/)**
 

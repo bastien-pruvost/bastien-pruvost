@@ -35,7 +35,7 @@ You can contact me at **contact@pruvostbastien.fr**
   </a>
 </p>
 
-My github has been a little empty lately, but I'm working hard:  
+My github has been a little empty recently, but I'm working hard on Gitlab :  
   
 ![image](https://github.com/bastien-pruvost/bastien-pruvost/assets/94443207/1ebe8f01-b1b0-4af9-aa48-5086aaf95425)
 

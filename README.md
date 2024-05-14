@@ -8,13 +8,9 @@
   Web Developer from South of France
 </h2>
 
-I work as front-end developer at **Openstudio** (Toulouse - France)
-
-I’m currently working on Impartial UI a React component library
+I'm a front-end developer at **Openstudio** (Toulouse - France)
 
 You can see my portfolio at **[www.pruvostbastien.fr](https://www.pruvostbastien.fr/)**
-
-<!-- I’m currently learning **Automated Tests (Unit, Integration, E2E)** -->
 
 <!-- I’m looking to collaborate on [Project Name](Project Link) -->
 
@@ -35,8 +31,8 @@ You can contact me at **contact@pruvostbastien.fr**
   </a>
 </p>
 
-My github has been a little empty recently, but I'm working hard on Gitlab :  
-  
+My github is a bit empty at the moment because I'm working hard at work, here is my gitlab :
+
 ![image](https://github.com/bastien-pruvost/bastien-pruvost/assets/94443207/1ebe8f01-b1b0-4af9-aa48-5086aaf95425)
 
 <!-- <h4 align="center">Technologies, languages and tools that I use 💻</h4> -->

@@ -31,10 +31,6 @@ You can contact me at **contact@pruvostbastien.fr**
   </a>
 </p>
 
-My github is a bit empty at the moment because I'm working hard at work, here is my gitlab :
-
-![image](https://github.com/bastien-pruvost/bastien-pruvost/assets/94443207/1ebe8f01-b1b0-4af9-aa48-5086aaf95425)
-
 <!-- <h4 align="center">Technologies, languages and tools that I use 💻</h4> -->
 
 <!-- <h2> </h2>
